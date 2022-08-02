@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.002,C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Login.dfm=C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.436,C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Unit5.pas=C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\mainmenu.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.182,C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Unit5.pas=C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.270,C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Unit4.dfm=C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\login.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.189,C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Project4.dproj=C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.455,C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Unit1.dfm=C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\newdocument.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.436,C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Unit5.dfm=C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\mainmenu.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.182,C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Unit5.dfm=C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.450,C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Project4.dproj=C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\rut.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.964,C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Unit4.dfm=C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Login.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.270,C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Unit4.pas=C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\login.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.964,C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Unit4.pas=C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Login.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.454,C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Unit4.pas=C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.465,=C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.290,=C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.454,C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Unit4.dfm=C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.455,C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Unit1.pas=C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\newdocument.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.854,=C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.002,C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Login.pas=C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\Unit4.pas</Transaction>
+  </Transactions>
+</BorlandProject>

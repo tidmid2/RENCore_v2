@@ -1,0 +1,60 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{7220F9C9-4621-4703-B6E4-871F4A6ECD00}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="rut.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="C:\Project\FastFood.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="C:\фронтофис\Kafe_fb.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="rut">
+        <MSBuild Projects="rut.dproj"/>
+    </Target>
+    <Target Name="rut:Clean">
+        <MSBuild Projects="rut.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="rut:Make">
+        <MSBuild Projects="rut.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="FastFood">
+        <MSBuild Projects="C:\Project\FastFood.dproj"/>
+    </Target>
+    <Target Name="FastFood:Clean">
+        <MSBuild Projects="C:\Project\FastFood.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="FastFood:Make">
+        <MSBuild Projects="C:\Project\FastFood.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Kafe_fb">
+        <MSBuild Projects="C:\фронтофис\Kafe_fb.dproj"/>
+    </Target>
+    <Target Name="Kafe_fb:Clean">
+        <MSBuild Projects="C:\фронтофис\Kafe_fb.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Kafe_fb:Make">
+        <MSBuild Projects="C:\фронтофис\Kafe_fb.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="rut;FastFood;Kafe_fb"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="rut:Clean;FastFood:Clean;Kafe_fb:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="rut:Make;FastFood:Make;Kafe_fb:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
